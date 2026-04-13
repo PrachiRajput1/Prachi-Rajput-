@@ -1,20 +1,44 @@
 <h1 align="center">Hi 👋, I'm Prachi Rajput</h1>
-<h3 align="center">Learning is the journey of life</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prachirajput1&label=Profile%20views&color=0e75b6&style=flat" alt="prachirajput1" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/prachi rajput" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prachi rajput" height="30" width="40" /></a>
+<p align="center">
+💻 Full Stack Developer | 🎓 2nd Year IT Student | 🚀 Passionate Learner
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachirajput1&show_icons=true&locale=en&layout=compact" alt="prachirajput1" /></p>
+### 👩‍💻 About Me
+- 🎓 2nd Year IT Student  
+- 💻 Full Stack Developer (Frontend + Backend)  
+- 🚀 Love building real-world projects  
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachirajput1&show_icons=true&locale=en" alt="prachirajput1" /></p>
+### 🛠️ Tech Stack
+**Frontend:**  
+HTML | CSS | JavaScript | React  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachirajput1&" alt="prachirajput1" /></p>
+**Backend:**  
+Node.js | Express  
+
+**Database:**  
+MongoDB  
+
+**Tools:**  
+Git | GitHub | VS Code  
+
+---
+
+### 📌 Projects
+- 🔹 Portfolio Website  
+- 🔹 Full Stack Web App  
+- 🔹 (Add your real projects here)
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=PrachiRajput1&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiRajput1&layout=compact)
 
 
+### 📫 Connect with Me
+- GitHub: https://github.com/PrachiRajput1
